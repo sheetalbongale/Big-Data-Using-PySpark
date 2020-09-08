@@ -5,10 +5,10 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 The first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. The second goal will be to use PySpark or SQL to perform a statistical analysis of selected data.
 
-1. # ETL Process in Big Data using PySpark
+## 1. ETL Process in Big Data using PySpark
 Create DataFrames to match production-ready tables from two big Amazon customer review datasets.
 
-2. # Statistical Analysis to find bias
+## 2. Statistical Analysis to find bias
 Analyze whether reviews from Amazon's Vine program are trustworthy and free of bias.
 
 ## Technologies Used:
